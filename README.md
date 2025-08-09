@@ -1,4 +1,4 @@
-# BME163 Final Assignment – Gene Locus Visualization
+# Gene Locus Visualization
 
 This project is a Python-based plotting script that generates a multi-panel genomic visualization of a specified gene locus from annotation (GTF) and alignment (PSL) files.  
 It replicates a provided template figure at 2400 DPI using only matplotlib's rectangle primitives.
